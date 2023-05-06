@@ -1,4 +1,4 @@
-# [Laze 6.1](https://github.com/aaleaf/Laze-6.0/releases/tag/Laze) | 12.03.2023 | [Discord](https://discord.com/invite/uVBcyVdMuZ)
+# [Laze v2](https://github.com/aaleaf/Laze-v2/releases/tag/Laze) | 06.05.2023 | [Discord](https://discord.com/invite/uVBcyVdMuZ)
 ## Combat
 
 🔰 Aimbot [Hedeflere otomatik nişan alır]
@@ -29,17 +29,17 @@
 
 ## Misc
 
-🔰 Blink [Sunucuya gönderdiğiniz verileri sınırlar, bu sayede görünmez hareket edebilirsiniz]
+🔰 Blink [Sunucuya gönderdiğiniz verileri sınırlar, bu sayede görünmez şekilde hareket edebilirsiniz]
 
 ## Settings
 
 🔰 HUD [Hile için bir arayüz oluşturur, tema rengini değiştirebilirsiniz]
 
-🔰 Discord RPC [Discord oyun durumunuzda "Laze oynuyor" olarak belirtir]
+🔰 Discord RPC [Discord oyun durumunuzu "Laze oynuyor" olarak gösterir]
 
 ## Config Manager
 
-🔰 Config [Laze için ayar dosyaları oluşturmanızı, paylaşmanızı ve daha sonra onları yüklemenize olanak sağlar]
+🔰 Config [Laze için ayar dosyaları oluşturmaya, paylaşmaya ve yüklemeye olanak sağlar]
 
 ## Kurulum
 
@@ -54,13 +54,14 @@
 ⚠ Bir hata durumunda [Discord](https://discord.gg/uVBcyVdMuZ) sunucumuza gelip bu durumu bildirebilirsiniz. ⚠
 
 ## Ekran Görüntüleri
+![javaw_5GaJvk1qJf](https://user-images.githubusercontent.com/45121448/236621760-9ef6b2a3-9402-41f9-b646-3aba4fe4f89d.png)
 
-![image](https://user-images.githubusercontent.com/45121448/224541446-75d22bfe-dbe5-4873-9b87-060e87a8be49.png)
+![javaw_hlxQpi9F19](https://user-images.githubusercontent.com/45121448/236621765-f105d090-6b4b-4e6d-b3d2-b2472b1d61de.png)
 
-![image](https://user-images.githubusercontent.com/45121448/224541450-fa1d3cfd-4da0-4334-bb7d-78fc5d32c8d7.png)
+![javaw_MmoRL4BXyO](https://user-images.githubusercontent.com/45121448/236621766-e59ac573-7c5f-4869-83e6-85326b109f2e.png)
 
-![image](https://user-images.githubusercontent.com/45121448/226028927-b49d8377-b3e7-43df-bf72-f2f0654c6cf8.png)
+![javaw_zh6eu7IGUu](https://user-images.githubusercontent.com/45121448/236621768-38614743-5b53-4ce5-a233-764afb056144.png)
 
-![image](https://user-images.githubusercontent.com/45121448/226028818-80407afe-654d-4dc1-9702-5cbe2be34930.png)
+![javaw_KXCFUwucu6](https://user-images.githubusercontent.com/45121448/236621770-3b6860f4-779b-4f73-be6a-dda4dde6d0ad.png)
 
-![image](https://user-images.githubusercontent.com/45121448/224541458-784ae7e2-a897-479e-ba80-7fb4799f873c.png)
+![image](https://user-images.githubusercontent.com/45121448/236621787-5c6232fa-358f-40b5-a2df-bfe328d6b701.png)

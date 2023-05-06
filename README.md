@@ -43,7 +43,7 @@
 
 ## Kurulum
 
-💠 Laze'i [indirin](https://github.com/aaleaf/Laze-6.0/releases/download/Laze/Laze.exe) ve çalıştırın.
+💠 Laze'i [indirin](https://github.com/aaleaf/Laze-v2/releases/download/Laze/Laze.zip) ve çalıştırın.
 
 💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord](https://discord.gg/uVBcyVdMuZ) sunucumuza gelip doğrulayın.
 

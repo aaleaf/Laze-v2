@@ -19,7 +19,7 @@
 
 🔰 China Hat [Oyunculara şapka çizer]
 
-🔰 Item Scaler [Elinizde tuttuğunuz eşyanın boyutunu ve yüksekliğini değiştirmenizi sağlar]
+🔰 Item Animation [Elinizde tuttuğunuz eşyanın boyutunu ve yüksekliğini değiştirmenizi sağlar]
 
 🔰 Player Scaler [Oyuncuların boyutunu değiştirmenizi sağlar, sadece sizde gözükür]
 

@@ -1,4 +1,6 @@
-# [Laze v2](https://github.com/aaleaf/Laze-v2/releases/tag/Laze) | 06.05.2023 | [Discord](https://discord.com/invite/uVBcyVdMuZ)
+# Discord sunucusu tekrardan açıldı: Yeni [Discord](https://discord.com/invite/XskJDsrNds)
+
+# [Laze v2](https://github.com/aaleaf/Laze-v2/releases/tag/Laze) | 06.05.2023 | [Discord](https://discord.com/invite/XskJDsrNds)
 ## Combat
 
 🔰 Aimbot [Hedeflere otomatik nişan alır]

@@ -17,6 +17,12 @@
 
 🔰 Chest ESP [Sandıkları çizimle belirtir]
 
+🔰 Animal ESP [Hayvanları çizimle belirtir]
+
+🔰 Item ESP [Yerdeki eşyaları çizimle belirtir]
+
+🔰 Mob ESP [Yaratıkları çizimle belirtir]
+
 🔰 Tracers [Oyuncuları çizgi ile belirtir]
 
 🔰 China Hat [Oyunculara şapka çizer]

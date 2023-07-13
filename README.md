@@ -53,13 +53,11 @@
 
 💠 Laze'i [indirin](https://github.com/aaleaf/Laze-v2/releases/download/Laze/Laze.Loader.exe) ve çalıştırın.
 
-💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord](https://discord.gg/uVBcyVdMuZ) sunucumuza gelip doğrulayın.
+💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord](https://discord.gg/XskJDsrNds) sunucumuza gelip doğrulayın.
 
 ⚠️ Laze'in çalışması için [VCRedist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) bilgisayarınızda yüklü olması gerekir. ⚠️
 
 ⚠️ Sadece 64 bit işletim sistemleri desteklenmektedir. ⚠️
-
-⚠ Bir hata durumunda [Discord](https://discord.gg/uVBcyVdMuZ) sunucumuza gelip bu durumu bildirebilirsiniz. ⚠
 
 ## Ekran Görüntüleri
 ![javaw_5GaJvk1qJf](https://user-images.githubusercontent.com/45121448/236621760-9ef6b2a3-9402-41f9-b646-3aba4fe4f89d.png)

@@ -1,6 +1,6 @@
-# Discord sunucusu tekrardan açıldı: Yeni [Discord](https://discord.com/invite/XskJDsrNds)
+# Discord sunucusu tekrardan açıldı: Yeni [Discord](https://discord.com/invite/laze)
 
-# [Laze v2](https://github.com/aaleaf/Laze-v2/releases/tag/Laze) | 07.07.2023 | [Discord](https://discord.com/invite/XskJDsrNds)
+# [Laze v2](https://github.com/aaleaf/Laze-v2/releases/tag/Laze) | 07.07.2023 | [Discord](https://discord.com/invite/laze)
 ## Combat
 
 🔰 Aimbot [Hedeflere otomatik nişan alır]
@@ -53,11 +53,11 @@
 
 💠 Laze'i [indirin](https://github.com/aaleaf/Laze-v2/releases/download/Laze/Laze.Loader.exe) ve çalıştırın.
 
-💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord](https://discord.gg/XskJDsrNds) sunucumuza gelip doğrulayın.
+💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord](https://discord.gg/laze) sunucumuza gelip doğrulayın.
 
 ⚠️ Laze'in çalışması için [VCRedist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) bilgisayarınızda yüklü olması gerekir. ⚠️
 
-⚠️ Sadece 64 bit işletim sistemleri desteklenmektedir. ⚠️
+⚠️ Sadece x64 bit işletim sistemleri desteklenmektedir. ⚠️
 
 ## Ekran Görüntüleri
 ![javaw_5GaJvk1qJf](https://user-images.githubusercontent.com/45121448/236621760-9ef6b2a3-9402-41f9-b646-3aba4fe4f89d.png)
